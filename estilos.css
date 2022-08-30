@@ -1,0 +1,38 @@
+.flex{
+    display: flex;
+    background-color: blueviolet;
+    justify-content:space-around;
+    flex-wrap: wrap;
+}
+h1{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.imagen1{
+    padding: 2px;
+    width: 300px;
+}
+.imagen2{
+    padding: 2px;
+    width: 300px;
+}
+.imagen3{
+    padding: 2px;
+    width: 300px;
+}
+.imagen4{
+    padding: 2px;
+    width: 300px;
+}
+.imagen5{
+    padding: 2px;
+    width: 300px;
+}
+.imagen6{
+    padding: 2px;
+    width: 300px;
+}
